@@ -1,4 +1,3 @@
 [submodule "libs/essentia"]
 	path = libs/essentia
 	url = https://github.com/MTG/essentia.git
-	branch = 2.0.1
